@@ -6,7 +6,7 @@ Types of Datatypes
         - int (4 bytes)
         - long (8 bytes)
     - Float
-        - double
+        - Double
         - float
     - Character
     - Boolean
