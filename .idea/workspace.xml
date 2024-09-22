@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="580020a5-691d-415f-acc4-2047c6bccb2d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Datatypes_In_Java/Datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Datatypes_In_Java/Datatypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Datatypes_In_Java/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Datatypes_In_Java/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypeCasting/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypeCasting/Casting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Conversion.executor": "Run",
     "Application.Datatypes.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
