@@ -1,0 +1,13 @@
+Types of Datatypes
+1. Primitive
+    - Integer
+        - byte (1 byte) -> Range: -2^7 to 2^7-1
+        - short (2 bytes)
+        - int (4 bytes)
+        - long (8 bytes)
+    - Float
+        - double
+        - float
+    - Character
+    - Boolean
+2. Non-Primitive
