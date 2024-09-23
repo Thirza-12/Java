@@ -2,7 +2,8 @@ package Strings;
 
 public class Strings {
     public static void main(String[] args) {
-//        String s="Thirza"; // String is created in string constant pool
+
+//        String s= "Thirza"; // String is created in string constant pool
 //        String t="Thirza"; // String is created in string constant pool
 //        System.out.println(s==t); // Both the objects are referring to same object so this will result in true
 //        System.out.println(s.equals(t)); // This will give true as it checks if value is same or not

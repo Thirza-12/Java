@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="580020a5-691d-415f-acc4-2047c6bccb2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Strings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/Strings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,5 +97,16 @@
       <updated>1727010835630</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
