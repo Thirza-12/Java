@@ -1,4 +1,4 @@
-package OOPS;
+package Classes_Intro;
 class Calculate {
     int num1;
     int num2;
