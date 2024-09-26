@@ -17,7 +17,7 @@ class B implements A,X{
         System.out.println("Run");
     }
 }
-public class Interfaces {
+public class Normal_Interface {
     public static void main(String[] args) {
         System.out.println(A.area); // I can directly call those variables as they are static and i can call them in my static main method
 //        A.area="Hyderabad"   Can not do it because interface variables are final, you can not change it
