@@ -1,5 +1,7 @@
-Literals: Literals are fixed values that represent data directly.
-Types of Datatypes
+# Datatypes
+
+- Literals: Literals are fixed values that represent data directly.
+- Types of Datatypes
 1. Primitive
     - Integer
         - Byte (1 byte) -> Range: -2^7 to 2^7-1 -> -128 to 127
