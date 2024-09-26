@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="580020a5-691d-415f-acc4-2047c6bccb2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Abstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Access_Modifiers/Access_Modifiers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Polymorphism.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Interfaces.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,9 @@
     &quot;Application.Conversion.executor&quot;: &quot;Run&quot;,
     &quot;Application.Datatypes.executor&quot;: &quot;Run&quot;,
     &quot;Application.Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Enums.executor&quot;: &quot;Run&quot;,
     &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interfaces.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Static.executor&quot;: &quot;Run&quot;,
     &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
@@ -64,9 +65,19 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/thirz/IdeaProjects/JavaOneShot&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/thirz/IdeaProjects/Java One Shot/src/Main.java&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Markdown&quot;
+    ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Inheritance">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thirz\IdeaProjects\JavaOneShot\src\Interface" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Classes">
     <configuration name="Classes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Classes_Advanced.Classes" />
       <module name="JavaOneShot" />
@@ -93,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Enums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enums.Enums" />
+      <module name="JavaOneShot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inheritance.Inheritance" />
       <module name="JavaOneShot" />
@@ -106,25 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Static.Static" />
+    <configuration name="Interfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interface.Interfaces" />
       <module name="JavaOneShot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Static.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Strings" />
-      <module name="JavaOneShot" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.Classes" />
+        <item itemvalue="Application.Enums" />
+        <item itemvalue="Application.Interfaces" />
+        <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.Encapsulation" />
-        <item itemvalue="Application.Static" />
-        <item itemvalue="Application.Strings" />
       </list>
     </recent_temporary>
   </component>
