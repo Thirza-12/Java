@@ -5,4 +5,4 @@
 - You can implement a class which implements that interface.
 - All the variables in Interface are by default final and static.
 - A Class can implements one or more than one interface.
-- Interface to interface relationship is called extends
+- Interface to interface relationship is called extends.
